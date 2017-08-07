@@ -19,6 +19,6 @@ STEPS TO RUN THE PROJECT:
   <li>Make necessary connections.</li>
  <li>Upload the code to Arduino.</li>
   <li>Power up your project.</li>
-  </p>
+ </p>
 For video and more info refer to:<a href="https://www.behance.net/gallery/50007535/Line-Follower-Robot"> Behance::Line Follower</a>
 YOUR LINE FOLLOWER IS GOOD TO GO :)
